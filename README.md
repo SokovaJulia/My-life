@@ -4,5 +4,4 @@
 2. I am 32
 3. I like animals
    
-![photo](https://vk.com/id38329130?z=photo38329130_457241452%2Falbum38329130_0%2Frev)
-
+![image](https://user-images.githubusercontent.com/127897145/227202406-7846dcaa-91ab-473c-93fd-80ed688dafe3.png)
